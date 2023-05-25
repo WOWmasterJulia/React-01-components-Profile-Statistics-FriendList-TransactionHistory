@@ -1,5 +1,6 @@
 import React from "react";
 import user from './Profile/Profile.user';
+import { Profile } from './Profile/Profile';
 
 export const App = () => {
    return (
