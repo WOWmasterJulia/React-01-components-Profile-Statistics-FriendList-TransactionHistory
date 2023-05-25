@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-01-components-Profile-Statistics-FriendList-TransactionHistory/static/css/main.b5320759.css",
-    "main.js": "/React-01-components-Profile-Statistics-FriendList-TransactionHistory/static/js/main.494680ab.js",
+    "main.js": "/React-01-components-Profile-Statistics-FriendList-TransactionHistory/static/js/main.b31021a2.js",
     "index.html": "/React-01-components-Profile-Statistics-FriendList-TransactionHistory/index.html",
     "main.b5320759.css.map": "/React-01-components-Profile-Statistics-FriendList-TransactionHistory/static/css/main.b5320759.css.map",
-    "main.494680ab.js.map": "/React-01-components-Profile-Statistics-FriendList-TransactionHistory/static/js/main.494680ab.js.map"
+    "main.b31021a2.js.map": "/React-01-components-Profile-Statistics-FriendList-TransactionHistory/static/js/main.b31021a2.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
-    "static/js/main.494680ab.js"
+    "static/js/main.b31021a2.js"
   ]
 }
