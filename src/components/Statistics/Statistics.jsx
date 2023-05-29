@@ -5,12 +5,15 @@ import { getRandomHexColor } from './randomeColor';
 export const Statistics = ({ title, stats }) => {
   return (
     <section className={css.statistics}>
-      {title ? (
+      {/* {title ? (
         <h2 className={css.title}>{title}</h2>
       ) : (
         <h2 className={css.title}>UPLOAD STATS</h2>
-      )}
+      )} */}
+     
+      {/* <h2 className={css.title}>UPLOAD STATS</h2> */}
 
+      {title && (<h2 className={css.title}>{title}</h2>)}
       <ul className={css.stat_list}>
         {stats.map(item => (
           <li style={{ backgroundColor: getRandomHexColor() }} key={item.id}>
